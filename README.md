@@ -1,1 +1,1 @@
-# navistats-ui-demo
+# NaviStats UI Demo
